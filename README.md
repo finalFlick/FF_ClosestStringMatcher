@@ -6,8 +6,8 @@ Enhance live Twitch interactions with our latest Unreal Engine blueprints, desig
 No instructions? No problem @finalFlick is ready to answer your questions.
 
 You will need to import these two files:
-- lib/BP_FF_StringUtils.uasset (the library)
-- BP_FF_ClosestStringMatcher.uasset (example uses)
+- content/FF/lib/BP_FF_StringUtils.uasset (the library)
+- content/FF/BP_FF_ClosestStringMatcher.uasset (example uses)
 
 **Key Benefits for Streamers:**
 - Correct typos in viewer redeems automatically, matching "plae song" to "play song".
