@@ -23,3 +23,29 @@ You will need to import these two files:
 - **N-Gram Generation:** Creates n-grams from strings for advanced text analysis, improving pattern recognition.
 
 Ideal for Twitch streamers seeking to elevate chat interaction and redeem handling. Ensure viewer inputs are correctly interpreted and acted upon, boosting engagement and satisfaction.
+
+Example of Closest Match:
+Search: orannge Matched:[orange]
+Search: yelloww Matched:[yellow]
+Search: gren Matched:[green]
+Search: blu Matched:[blue]
+Search: purpel Matched:[purple]
+Search: liteblue Matched:[blue]
+Search: puple2 Matched:[purple2]
+Search: pnk Matched:[pink]
+Search: blak Matched:[black]
+Search: whit Matched:[white]
+Search: ored Matched:[red]
+Search: bluee Matched:[blue]
+Search: grren3 Matched:[green3]
+Search: lightblu Matched:[lightblue]
+Search: yllow2 Matched:[yellow2]
+Search: purpl3 Matched:[purple3]
+Search: pinkk3 Matched:[pink3]
+Search: grin Matched:[green]
+Search: orang2 Matched:[orange2]
+Search: yello3 Matched:[yellow3]
+Search: blu2 Matched:[blue2]
+Search: lightblu3 Matched:[lightblue3]
+Search: purpel3 Matched:[purple3]
+Search: pink2k Matched:[pink]
