@@ -4,6 +4,9 @@ https://github.com/finalFlick/FF_ClosestStringMatcher
 Enhance live Twitch interactions with our latest Unreal Engine blueprints, designed for real-time viewer engagement and accurate user input handling.
 
 No instructions? No problem @finalFlick is ready to answer your questions.
+- You will need to import these two files:
+lib/BP_FF_StringUtils.uasset (the library)
+BP_FF_ClosestStringMatcher.uasset (example uses)
 
 **Key Benefits for Streamers:**
 Correct typos in viewer redeems automatically, matching "plae song" to "play song".
