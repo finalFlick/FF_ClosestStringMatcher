@@ -9,7 +9,10 @@ You will need to import these two files:
 - content/FF/ClosestStringMatcher/lib/BP_FF_StringUtils.uasset (the library)
 - content/FF/ClosestStringMatcher/BP_FF_ClosestStringMatcher.uasset (example uses)
 
-Place BP_FF_ClosestStringMatcher in your scene. Edit the BP and navigate to the Event Graph. In the example you can see how to connect your input and expected string list.
+Place BP_FF_ClosestStringMatcher in your scene. Edit the BP and navigate to the Event Graph. In the example you can see how to connect your input and expected string list to FindClosestString node. This is how you will attempt matches.
+![image](https://github.com/finalFlick/FF_ClosestStringMatcher/assets/160298723/3ba33cf5-3e3d-4525-b68a-eebbbbe7f26a)
+
+For further control step into the FindClosestStringNode. Here is where the high level lib functions are called.
 
 **Key Benefits for Streamers:**
 - Correct typos in viewer redeems automatically, matching "plae song" to "play song".
