@@ -9,6 +9,8 @@ You will need to import these two files:
 - content/FF/ClosestStringMatcher/lib/BP_FF_StringUtils.uasset (the library)
 - content/FF/ClosestStringMatcher/BP_FF_ClosestStringMatcher.uasset (example uses)
 
+Place BP_FF_ClosestStringMatcher in your scene. Edit the BP and navigate to the Event Graph. In the example you can see how to connect your input and expected string list.
+
 **Key Benefits for Streamers:**
 - Correct typos in viewer redeems automatically, matching "plae song" to "play song".
 - Minimize missed or incorrect chat redeems with smart string matching.
@@ -49,3 +51,5 @@ Example of Closest Match:
 - Search: lightblu3 Matched:[lightblue3]
 - Search: purpel3 Matched:[purple3]
 - Search: pink2k Matched:[pink]
+
+**Full Changelog**: https://github.com/finalFlick/FF_ClosestStringMatcher/commits/01.00.05
