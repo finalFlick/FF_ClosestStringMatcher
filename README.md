@@ -54,5 +54,3 @@ Example of Closest Match:
 - Search: lightblu3 Matched:[lightblue3]
 - Search: purpel3 Matched:[purple3]
 - Search: pink2k Matched:[pink]
-
-**Full Changelog**: https://github.com/finalFlick/FF_ClosestStringMatcher/commits/01.00.05
